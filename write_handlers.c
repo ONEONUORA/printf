@@ -9,7 +9,8 @@
  * @width: get width.
  * @precision: precision specifier
  * @size: Size specifier
- *
+ * 
+ * ebuka and obinna
  * Return: Number of chars printed.
  */
 int handle_write_char(char c, char buffer[],

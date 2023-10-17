@@ -4,7 +4,7 @@
 
 /**
  * main - Entry point
- *
+ * obinna and ebuka
  * Return: Always 0
  */
 int main(void)

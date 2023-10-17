@@ -20,7 +20,7 @@
 
 /**
  * struct fmt - Struct op
- *
+ * worked on by obinna and ebuka
  * @fmt: The format.
  * @fn: The function associated.
  */
